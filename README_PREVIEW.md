@@ -1,6 +1,6 @@
 # README Preview
 
-This is a preview description of the GitHub Profile README for **Noor Ahammad** (`pnoorahammad`).
+This is a preview description of the GitHub Profile README for **Otooru Baba** (`babaotooru`).
 
 ---
 

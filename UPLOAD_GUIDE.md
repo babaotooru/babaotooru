@@ -7,12 +7,12 @@ This guide walks you through uploading your profile README to GitHub so it appea
 ## Step 1: Create the Profile Repository
 
 1. Go to [github.com/new](https://github.com/new)
-2. **Repository name:** Enter your exact GitHub username — `pnoorahammad`
+2. **Repository name:** Enter your exact GitHub username — `babaotooru`
 3. **Visibility:** Set to **Public**
 4. **Initialize:** Check "Add a README file" (you'll replace it)
 5. Click **Create repository**
 
-> **Important:** The repository name MUST exactly match your GitHub username (`pnoorahammad`). This is how GitHub knows to display it on your profile.
+> **Important:** The repository name MUST exactly match your GitHub username (`babaotooru`). This is how GitHub knows to display it on your profile.
 
 ---
 
@@ -22,11 +22,11 @@ This guide walks you through uploading your profile README to GitHub so it appea
 
 ```bash
 # Clone the repository
-git clone https://github.com/pnoorahammad/pnoorahammad.git
-cd pnoorahammad
+git clone https://github.com/babaotooru/babaotooru.git
+cd babaotooru
 
 # Copy all files from this project into the cloned repo
-# (README.md, assets/, LICENSE, CONTRIBUTING.md)
+# (README.md, assets/, LICENSE, CONTRIBUTING.md, .github/)
 
 # Stage, commit, and push
 git add .
@@ -36,7 +36,7 @@ git push origin main
 
 ### Option B: Using GitHub Web Interface
 
-1. Go to `https://github.com/pnoorahammad/pnoorahammad`
+1. Go to `https://github.com/babaotooru/babaotooru`
 2. Click **Add file** → **Upload files**
 3. Drag and drop:
    - `README.md`
@@ -52,7 +52,7 @@ git push origin main
 
 The contribution snake animation requires a GitHub Actions workflow.
 
-1. In your `pnoorahammad` repository, create the file:
+1. In your `babaotooru` repository, create the file:
    ```
    .github/workflows/snake.yml
    ```
@@ -74,7 +74,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: pnoorahammad
+          github_user_name: babaotooru
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -96,7 +96,7 @@ jobs:
 
 ## Step 4: Verify Your Profile
 
-1. Visit `https://github.com/pnoorahammad`
+1. Visit `https://github.com/babaotooru`
 2. Your README should now display on your profile page
 3. Check that:
    - ✅ Banner image loads correctly
@@ -116,13 +116,13 @@ jobs:
 ### Update Project Links
 If any repository names differ from what's in the README, update the links:
 ```
-https://github.com/pnoorahammad/YOUR-REPO-NAME
+https://github.com/babaotooru/YOUR-REPO-NAME
 ```
 
 ### Replace the Banner
 To use a custom banner:
 1. Replace `assets/banner.png` with your own image
-2. Recommended dimensions: **1500 × 500 pixels**
+2. Recommended dimensions: **1500 × 500 pixels** (or 16:9 ratio)
 3. Keep the dark theme aesthetic for consistency
 
 ### Add a Profile Photo
@@ -134,7 +134,7 @@ GitHub automatically shows your profile photo from your account settings. No add
 
 | Issue | Solution |
 |---|---|
-| README not showing on profile | Ensure repo name is exactly `pnoorahammad` and is public |
+| README not showing on profile | Ensure repo name is exactly `babaotooru` and is public |
 | Banner not loading | Verify `assets/banner.png` exists and path is correct |
 | Stats not loading | GitHub Stats API may take a few minutes to cache |
 | Snake not generating | Run the workflow manually from the Actions tab |
@@ -145,7 +145,7 @@ GitHub automatically shows your profile photo from your account settings. No add
 ## File Structure
 
 ```
-pnoorahammad/
+babaotooru/
 ├── README.md              ← Main profile README (displayed on GitHub)
 ├── assets/
 │   └── banner.png         ← Profile banner image

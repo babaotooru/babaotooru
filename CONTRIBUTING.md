@@ -1,4 +1,4 @@
-# Contributing to Noor Ahammad's GitHub Profile
+# Contributing to Otooru Baba's GitHub Profile
 
 Thank you for your interest in contributing! This repository contains my personal GitHub profile README.
 
@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This repository contains my persona
 
 ### Reporting Issues
 If you notice any broken links, formatting issues, or have suggestions for improvement:
-1. Open an [Issue](https://github.com/pnoorahammad/pnoorahammad/issues/new)
+1. Open an [Issue](https://github.com/babaotooru/babaotooru/issues/new)
 2. Describe the problem or suggestion clearly
 3. Include screenshots if applicable
 

@@ -11,7 +11,7 @@
 <!-- ANIMATED TYPING SVG -->
 <div align="center">
   <a href="https://github.com/babaotooru">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Software+Engineer;AI+Engineer+%7C+Backend+Developer;Building+Scalable+Systems+%26+Intelligent+Agentic+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Software+Engineer;AI+Engineer+%7C+Backend+Developer" alt="Typing SVG" />
   </a>
 </div>
 

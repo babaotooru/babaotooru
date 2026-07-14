@@ -111,7 +111,6 @@ jobs:
    - ✅ Activity graph renders
    - ✅ Trophies show up
    - ✅ All links work correctly
-   - ✅ Snake animation plays (after workflow runs)
 
 ---
 

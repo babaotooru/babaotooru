@@ -363,24 +363,6 @@ An end-to-end full-stack classification system enabling real-time identification
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## &nbsp;Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babaotooru/babaotooru/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babaotooru/babaotooru/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/babaotooru/babaotooru/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-> **Setup:** To enable the snake animation, add the [GitHub Snake workflow](.github/workflows/snake.yml) to your profile repository. See the [Upload Guide](./UPLOAD_GUIDE.md) for instructions.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- OPTIONAL SECTIONS                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
